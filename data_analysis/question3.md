@@ -41,4 +41,4 @@ group by base.variant
 **what change/add on the test variant**  
 - Keep scaling
 - Monitor `RPAuc` and `CPAuc` by subset, rpauc must be higher than cpauc
-- Use `net_margin` as guard rail, net margin should be <0
+- Use `net_margin` as guard rail, net margin should be >0
