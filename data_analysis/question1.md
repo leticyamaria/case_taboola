@@ -53,5 +53,5 @@ ORDER BY platform
 
 **ANSWER**  
 For test over control:  
-**Mobile -2,39%**  
-**Desktop + 7,08%**
+**Desktop -2,39%**  
+**Mobile + 7,08%**
